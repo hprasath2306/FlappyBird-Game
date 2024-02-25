@@ -46,7 +46,8 @@ Start the server
   npm start
 ```
 
-## Screenshots
+## Demo
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![WhatsApp Video 2024-02-25 at 15 21 18_1db38160 (1)](https://github.com/hprasath2306/FlappyBird-Game/assets/142329080/a0fb3eaf-8b26-4ff2-8245-0d4b75c5a87a)
+
 
